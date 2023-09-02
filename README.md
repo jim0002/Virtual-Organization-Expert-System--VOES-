@@ -1,6 +1,7 @@
 # Virtual Organization Expert System [VOES]
  VOES is a management system for dealing with Voluntary Organization Management System.
-##Tools Used 
+ 
+## Tools Used 
 
 	To develop this project, the following tools were used:
 	->Microsoft Visual Studio 2013 Community Edition
